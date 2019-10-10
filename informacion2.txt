@@ -1,0 +1,9 @@
+INTRODUCCIÓN A LA PROGRAMACIÓN
+
+LOGARITMOS 
+Es un conjunto de pasos finitos que se deben ejecutar para realizar un objetivo.
+
+PROGRAMA
+Un programa es un un conjunto de pasos lógicos escritos en un lenguaje de programación que nos permite realizar una tarea.
+
+Existen diversos tipos de lenguaje de programacion. Estos lenguajes son una manera formal de comunicarse con un computador para de esa manera realizar las funciones planificadas.
